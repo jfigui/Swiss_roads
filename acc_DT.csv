@@ -1,0 +1,3 @@
+model,test_accuracy
+DT,66.0
+DT with PCA,74.0

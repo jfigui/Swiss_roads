@@ -1,0 +1,4 @@
+model,test_accuracy
+random forest,96.0
+svm linear,96.0
+svm rbf,96.0
