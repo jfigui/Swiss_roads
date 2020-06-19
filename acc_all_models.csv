@@ -1,11 +1,11 @@
 model,test_accuracy
-1-layer nn,97.99999904632568
-2-layer nn,96.00000023841858
 logistic,96.0
-random forest,96.0
 svm linear,96.0
 svm rbf,96.0
 k-NN,94.0
+2-layer nn,93.99999928474426
+1-layer nn,92.00000047683716
+random forest,92.0
 cnn,89.99999761581421
 DT with PCA,74.0
 DT,66.0
